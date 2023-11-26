@@ -134,6 +134,104 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=JLCPCB.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=Schematics.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\NC Drill\000169(Quick_Fire_TK_USBC)-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\NC Drill\000169(Quick_Fire_TK_USBC)-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\NC Drill\000169(Quick_Fire_TK_USBC).DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Gerber\000169(Quick_Fire_TK_USBC).GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Gerber\000169(Quick_Fire_TK_USBC).GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Gerber\000169(Quick_Fire_TK_USBC).GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Gerber\000169(Quick_Fire_TK_USBC).GKO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Gerber\000169(Quick_Fire_TK_USBC).GM
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Gerber\000169(Quick_Fire_TK_USBC).GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Gerber\000169(Quick_Fire_TK_USBC).GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Gerber\000169(Quick_Fire_TK_USBC).GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\NC Drill\000169(Quick_Fire_TK_USBC).LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\BOM\Bill of Materials-000169(Quick_Fire_TK_USBC).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-000169(Quick_Fire_TK_USBC).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Design Rule Check - 000169(Quick_Fire_TK_USBC).html
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for 000169(Quick_Fire_TK_USBC)\Pick Place\Pick Place for 000169(Quick_Fire_TK_USBC).csv
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Title
 Value=Quick Fire TK USB-C
