@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Keyboard_USB_C\Project Outputs for 000169(Quick_Fire_TK_USBC)\Pick Place\Pick Place for 000169(Quick_Fire_TK_USBC).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/11/23
+Time:       14:55
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"J1","18.0000","13.5875","BottomLayer","0"
+"R4","35.5000","12.2500","BottomLayer","0"
+"R3","35.5000","10.7500","BottomLayer","0"
+"R1","20.8000","9.5000","BottomLayer","180"
+"R2","15.2000","9.0000","BottomLayer","0"
+"D1","24.2500","7.5000","BottomLayer","180"
+"FB1","22.8731","4.6925","BottomLayer","0"
+"C3","27.6231","4.2640","BottomLayer","90"
+"C2","25.6231","4.2640","BottomLayer","90"
+"C1","20.1231","4.2640","BottomLayer","90"

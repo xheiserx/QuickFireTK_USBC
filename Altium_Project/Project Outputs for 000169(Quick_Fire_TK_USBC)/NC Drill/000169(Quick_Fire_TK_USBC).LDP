@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Keyboard_USB_C\000169(Quick_Fire_TK_USBC).PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=000169(quick_fire_tk_usbc)-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=000169(quick_fire_tk_usbc)-slotholes.txt|DrillLayers=gtl,gbl
